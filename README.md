@@ -1,5 +1,5 @@
-# Welcome to AMPL
-This guide walks you through an introduction to AMPL (A Mathematical Programming Language) and how you can use this tool to solve a lot of challenging business problems. We will explain the software details, followed by the syntax. You can then look into each of these folders to understand sample problems and solutions.
+# Welcome to Linear Programming
+Linear Programming is widely used to solve operational problems. This guide walks you through an introduction to AMPL (A Mathematical Programming Language) and how you can use this language in order to code your linear programming problems and solve a lot of challenging business problems. We will explain the syntax through various small examples in this folder and you can then look into the sub-folders to understand sample problems and solutions.
 
 # What is AMPL, what does it do?
 AMPL is an algebraic modeling language to describe and solve high-complexity problems for large-scale mathematical computing. It was developed by Robert Fourer, David Gay, and Brian Kernighan at Bell Laboratories.
